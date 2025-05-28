@@ -15,4 +15,10 @@ flutter pub get
 ```bash
 flutter run
 ```
+## Prints dos testes
+
+![Captura de tela 2025-05-28 151759](https://github.com/user-attachments/assets/0cfe0029-6509-4680-b574-81865de2d114)
+
+![Captura de tela 2025-05-28 151845](https://github.com/user-attachments/assets/10b57fce-c8eb-47eb-9fd3-a9988991cf43)
+
 
